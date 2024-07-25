@@ -1,6 +1,4 @@
 # Exercícios Conceitos Básicos de Python
-# 6) Solicite ao usuário o peso em kg e a altura em metros. Calcule e imprima o Índice de Massa Corporal (IMC) usando a fórmula:
-#    IMC = peso / (altura x altura).
 
 peso = float(input('Qual o seu peso em kgs? '))
 altura = float(input('Qual sua altura em metros? '))

@@ -1,6 +1,4 @@
 # Exercícios Conceitos Básicos de Python
-# 9) . Faça um Programa que utilize 4 variáveis como preferir e no final printuma mensagem 
-# amigável utilizando as variáveis criadas
 
 nome = input('Qual seu nome? ')
 possui_carro = int(input('Você possui algum carro? (1-Sim, 2-Não)'))
